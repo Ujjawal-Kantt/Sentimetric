@@ -1,2 +1,2 @@
-bl# Sentimetric
+l# Sentimetric
 A NLP Emotion Detection System
